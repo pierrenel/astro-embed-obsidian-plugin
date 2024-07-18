@@ -22,12 +22,13 @@ export default defineConfig({
 ```
 
 2. In your Markdown files, use the following syntax to embed content:
-
-```embed
-title: "Example Title"
-image: "https://example.com/image.jpg"
-description: "This is an example description."
-url: "https://example.com"
+```
+  ```embed
+  title: "Example Title"
+  image: "https://example.com/image.jpg"
+  description: "This is an example description."
+  url: "https://example.com"
+  ```
 ```
 
 or just edit your markdown in Obsidian and use the [Obsidian Link Embed plugin](https://github.com/Seraphli/obsidian-link-embed) to embed content.
