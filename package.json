@@ -1,0 +1,17 @@
+{
+  "name": "astro-obsidian-embed-plugin",
+  "version": "1.0.0",
+  "description": "An Astro plugin for embedding Obsidian embeds in Markdown files.",
+  "main": "src/index.js",
+  "type": "module",
+  "keywords": ["astro-plugin", "astro", "embed", "obsidian", "markdown"],
+  "author": "Pierre Nel <hello@pierre.io>",
+  "license": "MIT",
+  "dependencies": {
+    "unist-util-visit": "^4.0.0",
+    "js-yaml": "^4.1.0"
+  },
+  "peerDependencies": {
+    "astro": "^2.0.0"
+  }
+}
