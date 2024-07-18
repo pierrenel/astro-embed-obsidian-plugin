@@ -12,6 +12,7 @@
     "markdown"
   ],
   "author": "Pierre Nel <hello@pierre.io>",
+  "homepage": "https://github.com/pierrenel/astro-embed-obsidian-plugin",
   "license": "MIT",
   "dependencies": {
     "unist-util-visit": "^4.0.0",
